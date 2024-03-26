@@ -15,8 +15,16 @@ python app.py
 * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
 HERE'S HOW OUR FRONTEND LOOKS LIKE:
+![Telco6](https://github.com/Roshan-E-Gohar/MLProject-CustomerChurnPredictionModel/assets/133816562/becd65e1-ceac-405d-99f2-912957b77aac)
 
-"C:\Users\BEST BUY\Videos\Captures\Home - Google Chrome 2024-03-26 17-44-03.mp4"
+
+
+https://github.com/Roshan-E-Gohar/MLProject-CustomerChurnPredictionModel/assets/133816562/af36663b-7d7d-4be4-a5db-4a60ef20a7cb
+
+
+
+
+
 
 
 
