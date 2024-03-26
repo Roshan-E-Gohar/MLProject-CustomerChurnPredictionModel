@@ -16,7 +16,7 @@ python app.py
 
 HERE'S HOW OUR FRONTEND LOOKS LIKE:
 
-file:///C:/Users/BEST%20BUY/Videos/Captures/Home%20-%20Google%20Chrome%202024-03-26%2017-44-03.mp4
+"C:\Users\BEST BUY\Videos\Captures\Home - Google Chrome 2024-03-26 17-44-03.mp4"
 
 
 
